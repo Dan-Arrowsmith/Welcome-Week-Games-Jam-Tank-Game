@@ -1,6 +1,6 @@
 # Welcome Week Games Jam Tank Game
 
-Tank Game is a third person tank shooter. It was made in Unity by myself, Daniel Marker and Brandon Hacking as part of the 'Staffs University Welcome Week Game Jam In Cooperation With Codemasters And Playground'. More information about it can be found [here](https://daniel-marker.github.io/tank%20game.html)
+Tank Game is a third person tank shooter. It was made in Unity by myself, Daniel Marker and Brandon Hacking as part of the 'Staffs University Welcome Week Game Jam In Cooperation With Codemasters And Playground'.
 
 ### Playing the game
 The game itself is contained within FinalBuild.zip and only needs to be unzipped to be played.
